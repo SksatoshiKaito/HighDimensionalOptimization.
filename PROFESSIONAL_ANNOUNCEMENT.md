@@ -604,23 +604,7 @@ By combining theoretical rigor (peer-reviewed foundations) with practical engine
 
 ---
 
-## REFERENCES
 
-[1] Hansen, N., & Ostermeier, A. (1996). "Adapting arbitrary normal mutation distributions in evolution strategies: The covariance matrix adaptation." *Proceedings of IEEE International Conference on Evolutionary Computation*.
-
-[2] Auer, P., Cesa-Bianchi, N., & Fischer, P. (2002). "Finite-time analysis of the multiarmed bandit problem." *Machine Learning*, 47(2-3), 235-256.
-
-[3] Storn, R., & Price, K. (1997). "Differential evolution – a simple and efficient heuristic for global optimization over continuous spaces." *Journal of Global Optimization*, 11(4), 341-359.
-
-[4] Kennedy, J., & Eberhart, R. (1995). "Particle swarm optimization." *Proceedings of ICNN*, 4(2), 1942-1948.
-
-[5] Potter, M. A., & De Jong, K. A. (1994). "A cooperative coevolutionary approach to function optimization." *International Conference on Parallel Problem Solving from Nature*.
-
-[6] Mersmann, O., Bischl, B., Trautmann, H., Preuss, M., Weihs, C., & Rudolph, G. (2011). "Exploratory landscape analysis." *Proceedings of GECCO*, 829-836.
-
-[7] Wolpert, D. H., & Macready, W. G. (1997). "No free lunch theorems for optimization." *IEEE Transactions on Evolutionary Computation*, 1(1), 67-82.
-
----
 
 **Author**: Satoshi Kaito  
 **Affiliation**: Independent Researcher  
