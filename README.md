@@ -112,3 +112,12 @@ Vector optimalSolution = engine.optimize(5000, 5.0, null);
 <div align="center">
 <i>"Optimization is the language of nature; TRANSCENDENCE is the interpreter."</i>
 </div>
+
+
+
+<img width="1600" height="517" alt="739470887_122114512947357855_2555511828121344020_n" src="https://github.com/user-attachments/assets/3616e9ac-9ddb-4f05-8fdc-e847f4ea0a55" />
+<img width="1600" height="722" alt="739107009_122114512791357855_782390716582949575_n (1)" src="https://github.com/user-attachments/assets/cbededf3-54d5-42d4-8c18-10fdd20ac64b" />
+<img width="1600" height="420" alt="739012751_122114512857357855_5727959491656819665_n (1)" src="https://github.com/user-attachments/assets/a4e4dc8c-ceb8-462d-b09a-38de2d6f397e" />
+<img width="1600" height="374" alt="739420184_122114512827357855_805401874392251416_n (1)" src="https://github.com/user-attachments/assets/3adaa5be-a379-4010-b240-6642daa51e54" />
+<img width="1600" height="791" alt="739264416_122114512881357855_409425764816464034_n" src="https://github.com/user-attachments/assets/50ba445d-becb-4f72-a95b-c62d37c662d4" />
+
